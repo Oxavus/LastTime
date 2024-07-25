@@ -1,0 +1,12 @@
+	Document of development.
+LastTime is a 2D game setting in a world of fanstacy with magic;
+the story of the game is about a human who advernturing to travel the world finding the meaning of the world he living in;
+
+
+
+
+
+
+	Prototype v0.1
+Goal : make a world, player, enemy and level. to be playable for now.
+		Task Jira : 
